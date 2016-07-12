@@ -1,5 +1,4 @@
 # MyhomeSpider
-# MyhomeSpider
 Download all students' dorm information from myhome.tsinghua.edu.cn.
 
 在清华研究生宿舍抽签登记期间，myhome上的登记入口开放。输入学号后显示个人信息并要求确认。
